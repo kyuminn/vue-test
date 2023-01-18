@@ -65,7 +65,7 @@ const routes = [
     path:'/parentBinding',
     name:'ParentComponent',
     component: ParentComponent
-  }
+  },
 ]
 
 const router = new VueRouter({
